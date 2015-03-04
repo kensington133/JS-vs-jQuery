@@ -1,2 +1,2 @@
-# js-tests
-Vanilla JavaScript perfomance on basic tasks such as performing an AJAX request and changed the value of and input
+# Basic JavaScript Performance Testing
+Vanilla JavaScript performance on basic tasks such as executing an AJAX request and changing the value of and input.
